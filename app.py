@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def home():
 
-    return "Welcome to AI Phishing Shield, This is my first Flask app!!"
+    return "Welcome to AI Phishing Shield, this is my first Flask app! :)"
 
 if __name__ == "__main__":
 
